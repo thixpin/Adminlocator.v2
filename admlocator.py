@@ -97,7 +97,7 @@ class Bruter(object):
                 except Exception,e:
                                 print('[*] General Error occurs ...')
                                 print('[-] Terminating ...')
-  			sys.exit(0)
+        			sys.exit(0)
                 
         def run(self):
                 MSG('adminrun')
