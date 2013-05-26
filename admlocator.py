@@ -97,7 +97,7 @@ class Bruter(object):
                 except Exception,e:
                                 print('[*] General Error occurs ...')
                                 print('[-] Terminating ...')
-        			sys.exit(0)
+                                sys.exit(0)
                 
         def run(self):
                 MSG('adminrun')
@@ -108,7 +108,7 @@ class Bruter(object):
                 print self.foundpaths                
                                 
 #Classes end
-#Functions start	
+#Functions start        
 def AdminLocator(domain):
         '''Admin Finder function'''
         url = domain
