@@ -1,0 +1,14 @@
+Adminlocator v.2
+================
+[Change log]
+------------
+-Switch to OOP style
+-Remove two tiny utilities
+-Some minor changes like --
+  -argument given style
+	-miscellaneous
+
+Thanks for trying my script
+Mr.Geek
+Contact -> foursec@outlook.com
+        -> mr.geek@fbi.al
