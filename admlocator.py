@@ -23,6 +23,7 @@ def usage():
         print '''
                 :: Usage ::
                 $ ./adminlocator.py -u <url>
+                <url> format ==> http://www.google.com  ,etc.
         '''
 
 def clear():
