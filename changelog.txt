@@ -12,3 +12,11 @@ Thanks for trying my script
 Mr.Geek
 Contact -> foursec@outlook.com
         -> mr.geek@fbi.al
+
+
+Adminlocator v.2.1
+================
+[Change log]
+------------
+-divided script type of server
+-add input() mod for url
